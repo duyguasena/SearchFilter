@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://image.hurimg.com/i/hurriyet/75/750x422/600ad95f7152d817f4b4962b.jpg",
+    "title": "Lord of the Rings",
+    "Description": "Fantastik,macera"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.fantastikcanavarlar.com/wp-content/uploads/2023/04/Harry-Potter-Dizi-HBO.jpg",
+    "title": "Harry Potter",
+    "Description": "Fantastik,macera,aile"
+  },
+  {
+    "id": 3,
+    "image": "https://img02.imgsinemalar.com/images/afis_buyuk/b/baslangic-1660924244.jpg",
+    "title": "Inception",
+    "Description": "Aksiyon,bilim kurgu,macera"
+  },
+  {
+    "id": 4,
+    "image": "https://img03.imgsinemalar.com/images/afis_buyuk/e/esaretin-bedeli-1660926263.jpg",
+    "title": "The Shawshank Redemption",
+    "Description": "Dram,suç"
+  },
+  {
+    "id": 5,
+    "image": "https://img02.imgsinemalar.com/images/afis_buyuk/y/yesil-yol-1660915301.jpg",
+    "title": "The Green Mile",
+    "Description": "Fantastik.dram,suç"
+  },
+  {
+    "id": 6,
+    "image": "https://img04.imgsinemalar.com/images/afis_buyuk/d/dovus-kulubu-1660915260.jpg",
+    "title": "Fight Clup",
+    "Description": "Dram"
+  },
+  {
+    "id": 7,
+    "image": "https://img02.imgsinemalar.com/images/afis_buyuk/p/prestij-1660915246.jpg",
+    "title": "The Prestige",
+    "Description": "Dram,gizem,bilim kurgu"
+  },
+  {
+    "id": 8,
+    "image": "https://img01.imgsinemalar.com/images/afis_buyuk/b/baba-1660915256.jpg",
+    "title": "The Godfather",
+    "Description": "Dram,suç"
+  },
+  {
+    "id": 9,
+    "image": "https://img02.imgsinemalar.com/images/afis_buyuk/p/piyanist-1660915262.jpg",
+    "title": "The Pianist",
+    "Description": "Dram,savaş"
+  },
+  {
+    "id": 10,
+    "image": "https://img01.imgsinemalar.com/images/afis_buyuk/a/akil-oyunlari-1660915251.jpg",
+    "title": "A Beautiful Mind ",
+    "Description": "Dram,romantik"
+  }
+]
